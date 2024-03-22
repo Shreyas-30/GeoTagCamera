@@ -23,7 +23,6 @@ web-build/
 npm-debug.*
 yarn-debug.*
 yarn-error.*
-yarn.lock
 
 # macOS
 .DS_Store
@@ -34,3 +33,7 @@ yarn.lock
 
 # typescript
 *.tsbuildinfo
+
+#builds
+ios/
+android/
